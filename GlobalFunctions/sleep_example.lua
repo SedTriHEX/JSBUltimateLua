@@ -1,0 +1,5 @@
+print("1")
+sleep(1000)
+print("2")
+sleep(1000)
+print("3")
