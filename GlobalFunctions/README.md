@@ -20,15 +20,3 @@ local wall = createObject("Wall")
 sleep(5000)
 ```
 
-# void print(object value)
-Выводит значение виде Toast оповещения (для Android), а для Windows версии, выводит значение виде текста в центр сцены.
-<br><br>
-<b>Пример использования:</b>
-
-```lua
--- Вывод сообщение 'Hello, World!'
-print("Hello, World!")
--- Вывод сообщение 10
-print(10)
-```
-
